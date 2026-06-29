@@ -1,0 +1,90 @@
+PRIVACY POLICY
+Interlinked Marketplace
+Effective Date: 1 July 2025
+
+1. INTRODUCTION
+Interlinked ("we", "us", "the Platform") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and share your personal information when you use our marketplace platform.
+
+This policy is compliant with the Protection of Personal Information Act (POPIA) of South Africa.
+
+2. INFORMATION WE COLLECT
+
+2.1. Information You Provide
+- Full name, email address, phone number, and residential address during registration
+- Government-issued identification documents submitted for verification purposes
+- Payment information processed through our QR payment system
+- Listings, messages, and reviews you create on the Platform
+- Communications with other users and with our support team
+
+2.2. Information Collected Automatically
+- IP address, browser type, and operating system
+- Pages visited, features used, and time spent on the Platform
+- Device identifiers and cookies for session management
+- Location data (approximate, based on IP or as provided by you)
+
+2.3. Information From Third Parties
+- If you log in via a third-party service, we may receive your name and email address
+- Publicly available information to assist in verification
+
+3. HOW WE USE YOUR INFORMATION
+
+We use your personal information to:
+- Create and manage your account
+- Facilitate transactions between buyers and sellers
+- Process payments through our QR payment system
+- Verify your identity and display verification status
+- Communicate with you regarding your account, listings, and transactions
+- Send notifications about messages, orders, and platform updates
+- Improve and personalise your experience on the Platform
+- Detect and prevent fraud, abuse, and violations of our Terms
+- Comply with legal obligations under South African law
+
+4. HOW WE SHARE YOUR INFORMATION
+
+We may share your information with:
+- Other users: Your username, verification badge, and listings are visible to all users
+- Payment processors: Transaction data necessary to process QR payments
+- Shipping providers: Delivery information shared between buyer and seller as needed
+- Legal authorities: When required by law, court order, or to protect the rights and safety of users
+- Service providers: Third parties who assist in operating the Platform (hosting, analytics), bound by confidentiality agreements
+
+We do not sell your personal information to third parties.
+
+5. DATA STORAGE AND SECURITY
+5.1. Your data is stored on secure servers located in South Africa or as managed by our hosting provider.
+5.2. We implement appropriate technical and organisational measures including encryption, access controls, and regular security assessments.
+5.3. While we take reasonable precautions, no method of electronic storage is 100% secure and we cannot guarantee absolute security.
+
+6. DATA RETENTION
+6.1. We retain your personal information for as long as your account is active or as needed to provide services.
+6.2. After account deletion, we may retain certain data for legal obligations, dispute resolution, or fraud prevention for a period not exceeding the timeframes prescribed by law.
+6.3. Backup copies of deleted data may persist in our systems for up to 30 days.
+
+7. YOUR RIGHTS
+Under POPIA, you have the right to:
+7.1. Access: Request a copy of the personal information we hold about you.
+7.2. Correction: Request correction of inaccurate or incomplete information.
+7.3. Deletion: Request deletion of your personal information, subject to legal retention requirements.
+7.4. Objection: Object to the processing of your information for direct marketing purposes.
+7.5. Portability: Request your data in a structured, commonly used format.
+7.6. Withdraw consent: Where processing is based on consent, you may withdraw it at any time.
+
+To exercise any of these rights, contact us through the Platform's support channel.
+
+8. COOKIES
+8.1. We use cookies to maintain your session and improve your browsing experience.
+8.2. You may disable cookies in your browser settings, but some features of the Platform may not function properly.
+8.3. We use essential cookies only — we do not use third-party advertising cookies.
+
+9. CHILDREN'S PRIVACY
+The Platform is not intended for persons under the age of 18. We do not knowingly collect information from minors. If we become aware that a minor has provided personal information, we will delete it promptly.
+
+10. CHANGES TO THIS POLICY
+10.1. We may update this Privacy Policy from time to time.
+10.2. Material changes will be communicated via email or a prominent notice on the Platform.
+10.3. Continued use after changes constitutes acceptance of the revised Policy.
+
+11. CONTACT US
+If you have questions about this Privacy Policy or how your information is handled, please contact us through the Platform's support channel or via the Contact page.
+
+By using Interlinked, you acknowledge that you have read and understood this Privacy Policy and consent to the collection and use of your information as described herein.

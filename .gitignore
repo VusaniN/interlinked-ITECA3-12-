@@ -1,0 +1,16 @@
+# Uploaded files (user-generated content)
+uploads/avatars/*
+uploads/products/*
+uploads/verification/*
+!uploads/avatars/.gitkeep
+!uploads/products/.gitkeep
+!uploads/verification/.gitkeep
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
